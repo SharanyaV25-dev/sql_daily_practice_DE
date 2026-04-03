@@ -6,6 +6,11 @@
 - Joins
 - Aggregation
 - Interview problem (2nd highest salary, Deduplication using both group by and window function)
-
+## Day 2
+- Implemented ROW_NUMBER, DENSE_RANK
+- Solved top N per group problems
+- Used CTEs for structured queries
+- Learned partitioning and ordering concepts
+- Practiced cumulative calculations
 ## Goal
 To build strong SQL foundation for data engineering interviews
