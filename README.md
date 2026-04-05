@@ -12,5 +12,10 @@
 - Used CTEs for structured queries
 - Learned partitioning and ordering concepts
 - Practiced cumulative calculations
+## Day 3 - Window Functions (LAG & LEAD)
+- Learned LAG and LEAD for row comparison
+- Calculated salary differences and trends
+- Implemented percentage increase logic
+- Solved real-world problems like salary growth and jumps
 ## Goal
 To build strong SQL foundation for data engineering interviews
