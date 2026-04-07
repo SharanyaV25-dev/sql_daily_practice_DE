@@ -17,5 +17,10 @@
 - Calculated salary differences and trends
 - Implemented percentage increase logic
 - Solved real-world problems like salary growth and jumps
+## Day 4 - Advanced SQL
+- Solved top N problems using window functions
+- Compared salary with company and department averages
+- Calculated salary contribution percentages
+- Strengthened analytical thinking using SQL patterns
 ## Goal
 To build strong SQL foundation for data engineering interviews
