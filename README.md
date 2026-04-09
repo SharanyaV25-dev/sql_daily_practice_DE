@@ -1,26 +1,39 @@
 # SQL Data Engineering Practice
 
-## Day 1
-- Basic queries
-- Filtering
-- Joins
-- Aggregation
-- Interview problem (2nd highest salary, Deduplication using both group by and window function)
-## Day 2
-- Implemented ROW_NUMBER, DENSE_RANK
-- Solved top N per group problems
-- Used CTEs for structured queries
-- Learned partitioning and ordering concepts
-- Practiced cumulative calculations
-## Day 3 - Window Functions (LAG & LEAD)
-- Learned LAG and LEAD for row comparison
-- Calculated salary differences and trends
-- Implemented percentage increase logic
-- Solved real-world problems like salary growth and jumps
-## Day 4 - Advanced SQL
-- Solved top N problems using window functions
-- Compared salary with company and department averages
-- Calculated salary contribution percentages
-- Strengthened analytical thinking using SQL patterns
+## Overview
+This repository contains structured SQL practice focused on data engineering concepts, progressing from fundamentals to advanced analytical problem-solving.
+
+## Concepts Covered
+
+### Core SQL
+- Filtering, Joins, Aggregations
+- Group By and Having
+- Subqueries and Derived Tables
+
+### Window Functions
+- ROW_NUMBER, RANK, DENSE_RANK
+- LAG and LEAD for row comparison
+- FIRST_VALUE and advanced window usage
+- Partitioning and ordering strategies
+
+### Analytical Problem Solving
+- Top N problems (global & per group)
+- Salary comparisons (employee, department, company level)
+- Running calculations and percentage metrics
+- Duplicate detection using multiple approaches
+- Salary trend analysis and growth patterns
+
+### Advanced Query Techniques
+- Common Table Expressions (CTEs)
+- Combining window functions with aggregation
+- Multi-condition filtering across hierarchy levels
+- Real-world business problem simulations
+
+## Key Learnings
+- Developed strong SQL problem-solving patterns
+- Improved ability to break down complex queries step-by-step
+- Gained confidence in writing interview-level queries
+- Learned to choose between subqueries, CTEs, and window functions effectively
+
 ## Goal
-To build strong SQL foundation for data engineering interviews
+To build a strong, interview-ready SQL foundation for Data Engineering roles with a focus on real-world data scenarios.
